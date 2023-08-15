@@ -1,0 +1,16 @@
+citHeader("To cite AquaTK in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Evaluating Toxicokinetic Compartmental Models as Predictors of Internal Concentration in Environmentally Relevant Species",
+  author   = "J. Collins et al.",
+  journal  = "Environmental Toxicology and Chemistry",
+  year     = "2023",
+  volume   = "",
+  number   = "",
+  pages    = "",
+  url      = "",
+  textVersion = paste(
+
+  )
+)

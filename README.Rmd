@@ -1,0 +1,79 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Build with build_readme() -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "50%"
+)
+```
+
+# Evaluating TK Models: AquaTK Package
+
+The AquaTK package (pronounced "aquatic") is the supporting material for the publication:
+
+_Evaluating Toxicokinetic Compartmental Models as
+Predictors of Internal Concentration in
+Environmentally Relevant Species_ (Collins 2023)
+
+The package makes toxicokinetic data for a variety of aquatic species 
+publicly available and easily accessible.
+
+## Installation
+The development version of the AquaTK package is hosted on 
+[GitHub](https://github.com/J-Collins1294/AquaTK) and 
+is installed with the R command:
+
+```{r install}
+# install.packages("devtools")
+# devtools::install_github("J-Collins1294/AquaTK")
+```
+
+## Examples
+Load the _combined_ dataset (both fish and daphnia) with: 
+
+```{r example}
+
+library(AquaTK)
+
+df <- AquaTK::combined
+
+```
+
+The data for a specific chemical in the dataset is extracted and plot 
+as a function of the exposure time: 
+
+```{r plot-example}
+
+df <- AquaTK::daphnia
+df_atrazine <- df[grepl("Atrazine", df$NAME),]
+
+plot(
+  df_atrazine$EXPOSURE,
+  df_atrazine$INTERNAL,
+     xlab = "Exposure time (hours)",
+     ylab = "Internal Concentration (ug/L)")
+
+
+```
+
+## Publication
+Please cite the package with `citation("AquaTK")`.
+
+## Documentation 
+For more comprehensive details on how to use this library, 
+or descriptions of the processing steps, 
+please see the vignette 
+or run the following command:
+
+```{r help}
+
+??AquaTK::fish
+
+```
+

@@ -1,0 +1,113 @@
+---
+title: "AquaTK"
+output: rmarkdown::html_vignette
+self_contained: yes
+mode: selfcontained
+vignette: >
+  %\VignetteIndexEntry{AquaTK}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+## Daphnia Toxicokinetic Measurement Extraction
+TK measurements for D. magna were extracted from available literature by 
+searching for the following key terms: "toxicokinetics", 
+"bioconcentration", and "uptake" and/or "elimination" in D. magna using the 
+journal publication repositories Google scholar (scholar.google.com) and 
+Pubmed (pubmed.ncbi.nlm.nih.gov). Results were filtered by analysis of the 
+whole text to ensure that only studies that measured the external and internal 
+concentration of at least one chemical over a range of exposure 
+times were considered for the following steps. 
+The exposures were split into an uptake and elimination 
+phase for D. magna.
+
+Further requirements for a suitable study were:
+
+1.  Measurements recorded with units (for standardization)
+2.  Homogenate chemical concentration measurements (model assumption)
+3.  Organic chemicals only (environmentally relevant)
+
+This meant that some studies were excluded from the dataset because they 
+did not contain enough measurement information for unit conversion required 
+for the meta-analysis.
+
+In total, 14 studies reporting 26 chemicals fit the defined criteria.
+
+However, internal concentration measurements were often only available 
+through plots in figures and were not recorded in tables, 
+which made its digitization necessary for data extraction. 
+The plots were uploaded to the Automeris 
+WebPlotDigitizer (https://apps.automeris.io/wpd/) to manually 
+extract the TK data.
+
+A graphical representation of the time-course plot was uploaded to the 
+digitizer tool with the axes calibrated to replicate the studies concentration 
+units and values. 
+Finally, each datapoint was added to the dataset by marking each 
+individual point on the plot. 
+The digitizer allows the magnification of specific data points 
+before marking them to ensure data accuracy.
+
+This extraction procedure was then collated into what is hereafter 
+referred to as the Collins dataset containing information on a total of 
+26 unique chemicals from 14 studies. 
+Chemicals in the dataset covering a broad chemical space 
+including insecticide/herbicides, pharmaceuticals, surfactants, 
+and organophosphates. 
+
+In addition to internal and external concentration measurements, 
+in order to support model development other key experimental data was 
+collected for each study including the Octanol-Water partition coefficient, 
+Water Temperature, Water pH, organism age, and wet-weight, where available. 
+The Octanol-Water partition coefficient was taken directly from the study, 
+or from other available databases, e.g., Comptox (https://comptox.epa.gov) 
+or Pubchem (https://pubchem.ncbi.nlm.nih.gov). 
+The study collected values 
+were also independently verified against 
+currently available databases.
+
+If the D. magna wet weight was not available from the study, 
+the value was taken from other studies with similarly aged D. magna. 
+If this was not possible, 
+the mean wet weight value of all the D. magna was used to 
+impute the missing data. 
+The dissolved oxygen concentration was calculated 
+with Benson's formula with the temperature from the study, 
+assuming oxygen saturation of 90%. 
+The extracted internal and external D. magna chemical concentration 
+measurements were then processed and standardized for meta-analysis with 
+the fish based Stadnicka dataset. 
+
+The Stadnicka dataset contains internal and external concentration data 
+for two fish species, Pimephales promelas (fathead minnow) and Oncorhynchus 
+mykiss (rainbow trout). The two species are referred to by their common names; 
+fathead minnow and rainbow trout.
+
+The Stadnicka dataset contains 39 organic chemicals including: solvents, 
+insecticides/herbicides/pesticides, pharmaceuticals, and industrial products. 
+Although insecticides/herbicides/pesticides, were the chemical
+majority thus biasing the chemical space, we do not correct for potential 
+bias in the performance evaluation, assuming chemical-type model prediction 
+errors are independent in this initial study.
+
+## Dataset Standardization for Meta-Analysis
+The external and internal concentration of the Collins dataset were 
+standardised to $\mu gL^{-1}$ and $\mu gkg^{-1}$ respectively,
+with exposure times in days, and wet weights converted to kg to make 
+the Collins and Stadnicka datasets comparable for meta-analysis.
+
+One of the key assumptions required in compartmental modelling is that 
+internal concentration measurements are collected through whole 
+body homogenization. 
+Moreover, for comparison with Stadnicka's single-dose acute toxic studies, 
+only the D. magna uptake phase measurements were relevant from each study. 
+Studies without sufficiently clear experiment 
+descriptions were removed from datasets.

@@ -1,0 +1,108 @@
+META,SOURCEID,BIBTEXKEY,NAME,CAS,ORGANISM,EXPERIMENT,REPEAT,EXPOSURE,EXPOSUREUNIT,INTERNAL,INTERNALUNIT,EXTERNAL,EXTERNALUNIT,OXYGEN,MOLWEIGHT,TEMPERATURE,FLAGUPTAKE,LOGKOW,KOW,WEIGHT
+stadnicka2012,f11,buckler1981,Chlordecone (Kepone),000143-50-0,Fathead Minnow,e1,r1,60,d,0.17,ug / g,0.17,ug / l,7,NA,22,TRUE,5.41,257039.5783,0.000277
+stadnicka2012,f11,buckler1981,Chlordecone (Kepone),000143-50-0,Fathead Minnow,e2,r1,60,d,0.38,ug / g,0.31,ug / l,7,NA,22,TRUE,5.41,257039.5783,0.000277
+stadnicka2012,f11,buckler1981,Chlordecone (Kepone),000143-50-0,Fathead Minnow,e3,r1,60,d,2.6,ug / g,1.2,ug / l,7,NA,22,TRUE,5.41,257039.5783,0.000277
+stadnicka2012,f11,buckler1981,Chlordecone (Kepone),000143-50-0,Fathead Minnow,e4,r1,60,d,3.8,ug / g,3.1,ug / l,7,NA,22,TRUE,5.41,257039.5783,0.000277
+stadnicka2012,f7,call1980,"2,4,5-Trichlorophenol",000095-95-4,Fathead Minnow,e1,r1,28,d,100,ug / g,49.3,ug / l,8.22,NA,22,TRUE,3.72,5248.074602,0.000115
+stadnicka2012,f7,call1980,4-Nitrophenol,000100-02-7,Fathead Minnow,e1,r1,28,d,25.1,ug / g,44.1,ug / l,8.22,NA,21.9,TRUE,1.91,81.28305162,0.000115
+stadnicka2012,f7,call1980,Phenol,000108-95-2,Fathead Minnow,e1,r1,28,d,1584,ug / g,32.7,ug / l,8.22,NA,21.9,TRUE,1.46,28.84031503,0.000115
+stadnicka2012,f9,call1984,Alachlor (Technical grade),015972-60-8,Fathead Minnow,e1,r1,64,d,23.8,ug / g,520,ug / l,7.72,NA,24.7,TRUE,3.52,3311.311215,0.000423
+stadnicka2012,f9,call1984,Alachlor (Technical grade),015972-60-8,Fathead Minnow,e2,r1,64,d,50.4,ug / g,1100,ug / l,7.72,NA,24.7,TRUE,3.52,3311.311215,0.000316
+stadnicka2012,f9,call1984,Dinoseb (Technical grade),000088-85-7,Fathead Minnow,e1,r1,64,d,0.91,ug / g,14.5,ug / l,7.69,NA,24.7,TRUE,3.56,3630.780548,0.000679
+stadnicka2012,f9,call1984,Dinoseb (Technical grade),000088-85-7,Fathead Minnow,e2,r1,64,d,3.05,ug / g,48.5,ug / l,7.69,NA,24.7,TRUE,3.56,3630.780548,0.000517
+stadnicka2012,f10,call1987,Bromacil (Technical grade),000314-40-9,Fathead Minnow,e1,r1,17,d,3,ug / g,1000,ug / l,7.72,NA,25,TRUE,2.11,128.8249552,0.000479
+stadnicka2012,f10,call1987,Diuron (Technical grade),000330-54-1,Fathead Minnow,e1,r1,24,d,4.8,ug / g,33.4,ug / l,7.51,NA,24.3,TRUE,2.68,478.6300923,0.000563
+stadnicka2012,f2,carlson1987a,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Fathead Minnow,e1,r1,33,d,7,ug / g,3,ug / l,7.4,NA,25,TRUE,4.6,39810.71706,0.000112
+stadnicka2012,f2,carlson1987a,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Fathead Minnow,e2,r1,33,d,46,ug / g,19,ug / l,7.4,NA,25,TRUE,4.6,39810.71706,0.000114
+stadnicka2012,f2,carlson1987a,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Fathead Minnow,e3,r1,33,d,94,ug / g,39,ug / l,7.4,NA,25,TRUE,4.6,39810.71706,0.000114
+stadnicka2012,f2,carlson1987a,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Fathead Minnow,e4,r1,33,d,200,ug / g,110,ug / l,7.4,NA,25,TRUE,4.6,39810.71706,0.000102
+stadnicka2012,f2,carlson1987a,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Fathead Minnow,e5,r1,33,d,640,ug / g,250,ug / l,7.4,NA,25,TRUE,4.6,39810.71706,0.000098
+stadnicka2012,f2,carlson1987a,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Fathead Minnow,e6,r1,33,d,1100,ug / g,410,ug / l,7.4,NA,25,TRUE,4.6,39810.71706,0.000057
+stadnicka2012,f2,carlson1987a,"1,3-Dichlorobenzene",000541-73-1,Fathead Minnow,e1,r1,32,d,1.3,ug / g,20,ug / l,6.9,NA,25,TRUE,3.53,3388.441561,0.0001
+stadnicka2012,f2,carlson1987a,"1,3-Dichlorobenzene",000541-73-1,Fathead Minnow,e2,r1,32,d,29,ug / g,300,ug / l,6.9,NA,25,TRUE,3.53,3388.441561,0.000099
+stadnicka2012,f2,carlson1987a,"1,3-Dichlorobenzene",000541-73-1,Fathead Minnow,e3,r1,32,d,57,ug / g,560,ug / l,6.9,NA,25,TRUE,3.53,3388.441561,0.000098
+stadnicka2012,f2,carlson1987a,"1,3-Dichlorobenzene",000541-73-1,Fathead Minnow,e4,r1,32,d,120,ug / g,1000,ug / l,6.9,NA,25,TRUE,3.53,3388.441561,0.000102
+stadnicka2012,f2,carlson1987a,"1,4-Dichlorobenzene",000106-46-7,Fathead Minnow,e1,r1,32,d,6.8,ug / g,19,ug / l,7.3,NA,25,TRUE,3.44,2754.228703,0.000101
+stadnicka2012,f2,carlson1987a,"1,4-Dichlorobenzene",000106-46-7,Fathead Minnow,e2,r1,32,d,69.5,ug / g,570,ug / l,7.3,NA,25,TRUE,3.44,2754.228703,0.000101
+stadnicka2012,f2,carlson1987a,"1,4-Dichlorobenzene",000106-46-7,Fathead Minnow,e3,r1,32,d,103,ug / g,1000,ug / l,7.3,NA,25,TRUE,3.44,2754.228703,0.000087
+stadnicka2012,f2,carlson1987a,Hexachlorobenzene,000118-74-1,Fathead Minnow,e1,r1,32,d,0.3,ug / g,0.003,ug / l,7,NA,25,TRUE,5.73,537031.7964,0.00017
+stadnicka2012,f2,carlson1987a,Hexachlorobenzene,000118-74-1,Fathead Minnow,e2,r1,32,d,8,ug / g,0.3,ug / l,7,NA,25,TRUE,5.73,537031.7964,0.000159
+stadnicka2012,f2,carlson1987a,Hexachlorobenzene,000118-74-1,Fathead Minnow,e3,r1,32,d,15,ug / g,0.7,ug / l,7,NA,25,TRUE,5.73,537031.7964,0.000172
+stadnicka2012,f2,carlson1987a,Hexachlorobenzene,000118-74-1,Fathead Minnow,e4,r1,32,d,27,ug / g,1.2,ug / l,7,NA,25,TRUE,5.73,537031.7964,0.000164
+stadnicka2012,f2,carlson1987a,Hexachlorobenzene,000118-74-1,Fathead Minnow,e5,r1,32,d,46,ug / g,2.6,ug / l,7,NA,25,TRUE,5.73,537031.7964,0.00015
+stadnicka2012,f2,carlson1987a,Hexachlorobenzene,000118-74-1,Fathead Minnow,e6,r1,32,d,97,ug / g,4.8,ug / l,7,NA,25,TRUE,5.73,537031.7964,0.000165
+stadnicka2012,f2,carlson1987a,Pentachlorobenzene,000608-93-5,Fathead Minnow,e1,r1,31,d,1.1,ug / g,0.6,ug / l,7.2,NA,25,TRUE,5.17,147910.8388,0.000104
+stadnicka2012,f2,carlson1987a,Pentachlorobenzene,000608-93-5,Fathead Minnow,e2,r1,31,d,270,ug / g,28,ug / l,7.2,NA,25,TRUE,5.17,147910.8388,0.000107
+stadnicka2012,f2,carlson1987a,Pentachlorobenzene,000608-93-5,Fathead Minnow,e3,r1,31,d,380,ug / g,55,ug / l,7.2,NA,25,TRUE,5.17,147910.8388,0.000099
+stadnicka2012,f3,carlson1987b,"1,2,4-Trichlorobenzene",000120-82-1,Fathead Minnow,e1,r1,32,d,5,ug / g,15,ug / l,8.1,NA,25.7,TRUE,4.02,10471.28548,0.000095
+stadnicka2012,f3,carlson1987b,"1,2,4-Trichlorobenzene",000120-82-1,Fathead Minnow,e2,r1,32,d,31,ug / g,75,ug / l,8.1,NA,25.7,TRUE,4.02,10471.28548,0.000092
+stadnicka2012,f3,carlson1987b,"1,2,4-Trichlorobenzene",000120-82-1,Fathead Minnow,e3,r1,32,d,67.5,ug / g,140,ug / l,8.1,NA,25.7,TRUE,4.02,10471.28548,0.000089
+stadnicka2012,f3,carlson1987b,"1,2,4-Trichlorobenzene",000120-82-1,Fathead Minnow,e4,r1,32,d,127.5,ug / g,280,ug / l,8.1,NA,25.7,TRUE,4.02,10471.28548,0.000085
+stadnicka2012,f3,carlson1987b,"1,2,4-Trichlorobenzene",000120-82-1,Fathead Minnow,e5,r1,32,d,160,ug / g,500,ug / l,8.1,NA,25.7,TRUE,4.02,10471.28548,0.000085
+stadnicka2012,f3,carlson1987b,"1,2,4-Trichlorobenzene",000120-82-1,Fathead Minnow,e6,r1,32,d,477.5,ug / g,920,ug / l,8.1,NA,25.7,TRUE,4.02,10471.28548,0.000067
+stadnicka2012,f17,curtis1985,Fenvalerate,051630-58-1,Rainbow Trout,e1,r1,70,d,0.07,ug / g,0.018,ug / l,9.6,NA,12,TRUE,6.2,1584893.192,0.000357
+stadnicka2012,f17,curtis1985,Fenvalerate,051630-58-1,Rainbow Trout,e2,r1,70,d,0.24,ug / g,0.08,ug / l,9.6,NA,12,TRUE,6.2,1584893.192,0.000357
+stadnicka2012,f17,curtis1985,Fenvalerate,051630-58-1,Rainbow Trout,e3,r1,70,d,1.6,ug / g,0.135,ug / l,9.6,NA,12,TRUE,6.2,1584893.192,0.000357
+stadnicka2012,f21,fackler1995,Octamethylcyclotetrasiloxane,000556-67-2,Fathead Minnow,e1,r1,28,d,2.83,ug / g,0.26,ug / l,7.06,NA,21.5,TRUE,5.1,125892.5412,0.00048
+stadnicka2012,f8,howe1994,"2,4-Dinitrophenol",000051-28-5,Rainbow Trout,e1,r1,4,d,16.7,ug / g,1800,ug / l,6,NA,12,TRUE,1.67,46.77351413,0.0008
+stadnicka2012,f8,howe1994,4-Nitrophenol,000100-02-7,Rainbow Trout,e1,r1,4,d,270.6,ug / g,6600,ug / l,6,NA,12,TRUE,1.91,81.28305162,0.0008
+stadnicka2012,f16,jarvinen1978,Endrin,000072-20-8,Fathead Minnow,e1,r1,300,d,1,ug / g,0.14,ug / l,6.95,NA,24.8,TRUE,5.4,251188.6432,0.0003
+stadnicka2012,f16,jarvinen1978,Endrin,000072-20-8,Fathead Minnow,e2,r1,300,d,1.8,ug / g,0.25,ug / l,6.95,NA,24.8,TRUE,5.4,251188.6432,0.0003
+stadnicka2012,f12,jarvinen1983,Chlorpyrifos,002921-88-2,Fathead Minnow,e1,r1,200,d,0.47,ug / g,0.27,ug / l,7.5,NA,25.1,TRUE,4.96,91201.08394,0.000191
+stadnicka2012,f12,jarvinen1983,Chlorpyrifos,002921-88-2,Fathead Minnow,e2,r1,200,d,0.95,ug / g,0.63,ug / l,7.5,NA,25.1,TRUE,4.96,91201.08394,0.000191
+stadnicka2012,f12,jarvinen1983,Chlorpyrifos,002921-88-2,Fathead Minnow,e3,r1,200,d,3.03,ug / g,1.21,ug / l,7.5,NA,25.1,TRUE,4.96,91201.08394,0.000191
+stadnicka2012,f12,jarvinen1983,Chlorpyrifos,002921-88-2,Fathead Minnow,e4,r1,200,d,5.11,ug / g,2.68,ug / l,7.5,NA,25.1,TRUE,4.96,91201.08394,0.000191
+stadnicka2012,f5,mckim1983,"2,2',5,5'-Tetrachlorobiphenyl",035693-99-3,Rainbow Trout,e1,r1,2,d,25.34,ug / g,10,ug / l,10.75,NA,11,TRUE,6.09,1230268.771,0.767
+stadnicka2012,f22,mckim1986,Pentachlorophenol,000087-86-5,Rainbow Trout,e1,r1,2,d,0.11,ug / g,1,ug / l,10.75,NA,11.5,TRUE,5.12,131825.6739,0.735
+stadnicka2012,f6,mehrle1988,"2,3,7,8-Tetrachlorodibenzofuran",051207-31-9,Rainbow Trout,e1,r1,28,d,0.0025,ug / g,0.00041,ug / l,8.55,NA,11,TRUE,6.53,3388441.561,0.00038
+stadnicka2012,f6,mehrle1988,"2,3,7,8-Tetrachlorodibenzofuran",051207-31-9,Rainbow Trout,e2,r1,28,d,0.0106,ug / g,0.00393,ug / l,8.55,NA,11,TRUE,6.53,3388441.561,0.00038
+stadnicka2012,f6,mehrle1988,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",001746-01-6,Rainbow Trout,e1,r1,28,d,0.00098,ug / g,0.000038,ug / l,8.55,NA,11,TRUE,6.8,6309573.445,0.00038
+stadnicka2012,f6,mehrle1988,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",001746-01-6,Rainbow Trout,e2,r1,28,d,0.00452,ug / g,0.000176,ug / l,8.55,NA,11,TRUE,6.8,6309573.445,0.00038
+stadnicka2012,f19,nebeker1989,Hexachlorobenzene,000118-74-1,Fathead Minnow,e1,r1,28,d,46.5,ug / g,5,ug / l,9.06,NA,20,TRUE,5.73,537031.7964,0.000068
+stadnicka2012,f1,oliver1983,"1,2,3,4-Tetrachlorobenzene",000634-66-2,Rainbow Trout,e1,r1,105,d,0.32,ug / g,0.026,ug / l,8.87,NA,15,TRUE,4.6,39810.71706,0.25
+stadnicka2012,f1,oliver1983,"1,2,3-Trichlorobenzene",000087-61-6,Rainbow Trout,e1,r1,105,d,0.21,ug / g,0.071,ug / l,8.87,NA,15,TRUE,4.05,11220.18454,0.25
+stadnicka2012,f1,oliver1983,"1,2,4,5-Tetrachlorobenzene",000095-94-3,Rainbow Trout,e1,r1,105,d,0.32,ug / g,0.021,ug / l,8.87,NA,15,TRUE,4.64,43651.58322,0.25
+stadnicka2012,f1,oliver1983,"1,2,4-Trichlorobenzene",000120-82-1,Rainbow Trout,e1,r1,105,d,0.18,ug / g,0.052,ug / l,8.87,NA,15,TRUE,4.02,10471.28548,0.25
+stadnicka2012,f1,oliver1983,"1,2-Dichlorobenzene",000095-50-1,Rainbow Trout,e1,r1,105,d,0.67,ug / g,0.94,ug / l,8.87,NA,15,TRUE,3.43,2691.534804,0.25
+stadnicka2012,f1,oliver1983,"1,3,5-Trichlorobenzene",000108-70-3,Rainbow Trout,e1,r1,105,d,0.2,ug / g,0.045,ug / l,8.87,NA,15,TRUE,4.19,15488.16619,0.25
+stadnicka2012,f1,oliver1983,"1,3,5-Trichlorobenzene",000108-70-3,Rainbow Trout,e2,r1,105,d,0.64,ug / g,0.69,ug / l,8.87,NA,15,TRUE,4.19,15488.16619,0.25
+stadnicka2012,f1,oliver1983,"1,4-Dichlorobenzene",000106-46-7,Rainbow Trout,e1,r1,105,d,0.54,ug / g,0.67,ug / l,8.87,NA,15,TRUE,3.44,2754.228703,0.25
+stadnicka2012,f1,oliver1983,"Hexachloro-1,3-butadiene",000087-68-3,Rainbow Trout,e1,r1,105,d,0.063,ug / g,0.0034,ug / l,8.87,NA,15,TRUE,4.78,60255.95861,0.25
+stadnicka2012,f1,oliver1983,Hexachlorobenzene,000118-74-1,Rainbow Trout,e1,r1,105,d,0.16,ug / g,0.008,ug / l,8.87,NA,15,TRUE,5.73,537031.7964,0.25
+stadnicka2012,f1,oliver1983,Hexachloroethane,000067-72-1,Rainbow Trout,e1,r1,105,d,0.0071,ug / g,0.0071,ug / l,8.87,NA,15,TRUE,4.14,13803.84265,0.25
+stadnicka2012,f1,oliver1983,Pentachlorobenzene,000608-93-5,Rainbow Trout,e1,r1,105,d,0.22,ug / g,0.009,ug / l,8.87,NA,15,TRUE,5.17,147910.8388,0.25
+stadnicka2012,f14,shubat1986,Dieldrin,000060-57-1,Rainbow Trout,e1,r1,4,d,0.548,ug / g,0.15,ug / l,9.6,NA,12.5,TRUE,5.4,251188.6432,0.0028
+stadnicka2012,f14,shubat1986,Dieldrin,000060-57-1,Rainbow Trout,e2,r1,4,d,5.65,ug / g,0.99,ug / l,9.6,NA,12.5,TRUE,5.4,251188.6432,0.0028
+stadnicka2012,f20,spehar1979,Hexachlorocyclopentadiene,000077-47-4,Fathead Minnow,e1,r1,30,d,0.04,ug / g,3.7,ug / l,7.9,NA,25,TRUE,5.04,109647.8196,0.00011
+stadnicka2012,f20,spehar1979,Hexachlorocyclopentadiene,000077-47-4,Fathead Minnow,e2,r1,30,d,0.08,ug / g,7.3,ug / l,7.9,NA,25,TRUE,5.04,109647.8196,0.00013
+stadnicka2012,f13,spehar1982,Dicofol (Kelthane),000115-32-2,Fathead Minnow,e1,r1,28,d,28,ug / g,8.9,ug / l,7.15,NA,25,TRUE,6.06,1148153.621,0.000137
+stadnicka2012,f13,spehar1982,Dicofol (Kelthane),000115-32-2,Fathead Minnow,e2,r1,28,d,81,ug / g,19,ug / l,7.15,NA,25,TRUE,6.06,1148153.621,0.000137
+stadnicka2012,f13,spehar1982,Fenvalerate,051630-58-1,Fathead Minnow,e1,r1,30,d,0.23,ug / g,0.14,ug / l,7.15,NA,25,TRUE,6.2,1584893.192,0.0002
+stadnicka2012,f13,spehar1982,Fenvalerate,051630-58-1,Fathead Minnow,e2,r1,30,d,0.45,ug / g,0.17,ug / l,7.15,NA,25,TRUE,6.2,1584893.192,0.0002
+stadnicka2012,f13,spehar1982,Fenvalerate,051630-58-1,Fathead Minnow,e3,r1,30,d,0.88,ug / g,0.19,ug / l,7.15,NA,25,TRUE,6.2,1584893.192,0.0002
+stadnicka2012,f18,spehar1983,"Flucythrinate (AC 222,705)",070124-77-5,Fathead Minnow,e1,r1,32,d,0.16,ug / g,0.03,ug / l,6.55,NA,25,TRUE,6.2,1584893.192,0.000128
+stadnicka2012,f18,spehar1983,"Flucythrinate (AC 222,705)",070124-77-5,Fathead Minnow,e2,r1,32,d,0.17,ug / g,0.07,ug / l,6.55,NA,25,TRUE,6.2,1584893.192,0.000129
+stadnicka2012,f18,spehar1983,Permethrin,052645-53-1,Fathead Minnow,e1,r1,32,d,2.16,ug / g,0.66,ug / l,6.55,NA,25,TRUE,6.5,3162277.66,0.000093
+stadnicka2012,f18,spehar1983,Permethrin,052645-53-1,Fathead Minnow,e2,r1,32,d,4.51,ug / g,1.4,ug / l,6.55,NA,25,TRUE,6.5,3162277.66,0.00011
+stadnicka2012,f23,spehar1985,Pentachlorophenol,000087-86-5,Fathead Minnow,e1,r1,32,d,2.5,ug / g,5.6,ug / l,7.65,NA,25,TRUE,5.12,131825.6739,0.000103
+stadnicka2012,f23,spehar1985,Pentachlorophenol,000087-86-5,Fathead Minnow,e2,r1,32,d,5.2,ug / g,12.7,ug / l,7.65,NA,25,TRUE,5.12,131825.6739,0.000102
+stadnicka2012,f23,spehar1985,Pentachlorophenol,000087-86-5,Fathead Minnow,e3,r1,32,d,12.3,ug / g,27.6,ug / l,7.65,NA,25,TRUE,5.12,131825.6739,0.00009
+stadnicka2012,f23,spehar1985,Pentachlorophenol,000087-86-5,Fathead Minnow,e4,r1,32,d,25.1,ug / g,58.2,ug / l,7.65,NA,25,TRUE,5.12,131825.6739,0.000081
+stadnicka2012,f15,versteeg2003,Dodecylbenzene Sulfonate,025155-30-0,Fathead Minnow,e1,r1,8,d,0.0157,ug / g,300,ug / l,8.1,NA,24,TRUE,1.96,91.20108394,0.00019
+stadnicka2012,f15,versteeg2003,Dodecylbenzene Sulfonate,025155-30-0,Fathead Minnow,e1,r1,32,d,0.0121,ug / g,126,ug / l,8.1,NA,24,TRUE,1.96,91.20108394,0.00019
+stadnicka2012,f15,versteeg2003,Dodecylbenzene Sulfonate,025155-30-0,Fathead Minnow,e2,r1,32,d,0.0232,ug / g,293,ug / l,8.1,NA,24,TRUE,1.96,91.20108394,0.00019
+stadnicka2012,f15,versteeg2003,Dodecylbenzene Sulfonate,025155-30-0,Fathead Minnow,e3,r1,32,d,0.0606,ug / g,927,ug / l,8.1,NA,24,TRUE,1.96,91.20108394,0.00019
+stadnicka2012,f4,wezef1995,"1,2-Dibromobenzene",000583-53-9,Rainbow Trout,e1,r1,0.025,d,134.5,ug / g,25241.3,ug / l,9.7,NA,12,TRUE,3.64,4365.158322,0.056
+stadnicka2012,f4,wezef1995,"1,2-Dibromobenzene",000583-53-9,Rainbow Trout,e2,r1,0.07,d,424.6,ug / g,26184.9,ug / l,9.7,NA,12,TRUE,3.64,4365.158322,0.056
+stadnicka2012,f4,wezef1995,"1,2-Dibromobenzene",000583-53-9,Rainbow Trout,e3,r1,0.15,d,448.2,ug / g,13446.3,ug / l,9.7,NA,12,TRUE,3.64,4365.158322,0.056
+stadnicka2012,f4,wezef1995,"1,2-Dibromobenzene",000583-53-9,Rainbow Trout,e4,r1,0.23,d,566.2,ug / g,17574.55,ug / l,9.7,NA,12,TRUE,3.64,4365.158322,0.056
+stadnicka2012,f4,wezef1995,"1,2-Dichlorobenzene",000095-50-1,Rainbow Trout,e5,r1,0.196,d,138.2,ug / g,6012.3,ug / l,9.7,NA,12,TRUE,3.43,2691.534804,0.056
+stadnicka2012,f4,wezef1995,"1,2-Dichlorobenzene",000095-50-1,Rainbow Trout,e6,r1,0.342,d,147,ug / g,2381.4,ug / l,9.7,NA,12,TRUE,3.43,2691.534804,0.056
+stadnicka2012,f4,wezef1995,"1,2-Difluorobenzene",000367-11-3,Rainbow Trout,e7,r1,0.88,d,74.2,ug / g,15061.2,ug / l,9.7,NA,12,TRUE,2.37,234.4228815,0.056
+stadnicka2012,f4,wezef1995,"1,2-Difluorobenzene",000367-11-3,Rainbow Trout,e8,r1,0.88,d,111.8,ug / g,21564.9,ug / l,9.7,NA,12,TRUE,2.37,234.4228815,0.056
+stadnicka2012,f4,wezef1995,"1,4-Dibromobenzene",000106-37-6,Rainbow Trout,e1,r1,0.058,d,205.2,ug / g,12832.96,ug / l,9.7,NA,12,TRUE,3.79,6165.950019,0.056
+stadnicka2012,f4,wezef1995,"1,4-Dibromobenzene",000106-37-6,Rainbow Trout,e2,r1,0.2,d,184,ug / g,4765.18,ug / l,9.7,NA,12,TRUE,3.79,6165.950019,0.056
+stadnicka2012,f4,wezef1995,"1,4-Dichlorobenzene",000106-46-7,Rainbow Trout,e3,r1,0.05,d,47,ug / g,3748.5,ug / l,9.7,NA,12,TRUE,3.44,2754.228703,0.056
+stadnicka2012,f4,wezef1995,"1,4-Dichlorobenzene",000106-46-7,Rainbow Trout,e4,r1,0.83,d,69.1,ug / g,933.45,ug / l,9.7,NA,12,TRUE,3.44,2754.228703,0.056
+stadnicka2012,f4,wezef1995,"1,4-Difluorobenzene",000540-36-3,Rainbow Trout,e5,r1,0.07,d,43.4,ug / g,15517.6,ug / l,9.7,NA,12,TRUE,2.13,134.8962883,0.056
+stadnicka2012,f4,wezef1995,"1,4-Difluorobenzene",000540-36-3,Rainbow Trout,e6,r1,0.17,d,33.1,ug / g,7302.4,ug / l,9.7,NA,12,TRUE,2.13,134.8962883,0.056

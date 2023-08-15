@@ -1,0 +1,22 @@
+COLUMN,TYPE,UNIT,DESCRIPTION
+META,str,NA,Author of meta analysis publication
+SOURCEID,str,NA,Unique id assigned to source of data
+BIBTEXKEY,str,NA,Bibtex citation key
+NAME,str,NA,Chemical name
+CAS,str,NA,Chemical CAS number
+ORGANISM,str,NA,Organism name
+EXPERIMENT,int,NA,Unique id assigned to experiment
+REPEAT,str,NA,Unique label assigned to repeat of experiment
+EXPOSURE,float,NA,Length of time organism was exposued to chemical
+EXPOSUREUNIT,str,NA,Exposure unit of time
+INTERNAL,float,NA,Internal organism concentration at exposure time
+INTERNALUNIT,str,NA,Internal organism concentration unit
+EXTERNAL,float,NA,External water concentration
+EXTERNALUNIT,str,NA,External water concentration unit
+OXYGEN,float,mg / l,Oxygen concentration in water
+MOLWEIGHT,float,g / mol,Molecular weight
+TEMPERATURE,float,celsuis,Water temperature
+FLAGUPTAKE,bool,NA,Uptake if TRUE otherwise elimination phase
+LOGKOW,float,NA,Logarithm Base 10 of Water-Octonal Partition Coefficient
+KOW,float,NA,Water-Octonal Partition Coefficient
+WEIGHT,float,kg,Wet weight of organism
